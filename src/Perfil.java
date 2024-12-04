@@ -42,10 +42,6 @@ public class Perfil {
         return name;
     }
 
-    public void setName(String name) {
-        this.name = name;
-    }
-
     /**
      * Devuelve la historia personal del perfil.
      *
@@ -53,10 +49,6 @@ public class Perfil {
      */
     public String getStory() {
         return story;
-    }
-
-    public void setStory(String story) {
-        this.story = story;
     }
 
     /**
@@ -68,10 +60,6 @@ public class Perfil {
         return hobbies;
     }
 
-    public void setHobbies(List<String> hobbies) {
-        this.hobbies = hobbies;
-    }
-
     /**
      * Devuelve la lista de comidas favoritas del perfil.
      *
@@ -79,10 +67,6 @@ public class Perfil {
      */
     public List<String> getFoods() {
         return foods;
-    }
-
-    public void setFoods(List<String> foods) {
-        this.foods = foods;
     }
 
     /**
@@ -94,9 +78,6 @@ public class Perfil {
         return funFacts;
     }
 
-    public void setFunFacts(List<String> funFacts) {
-        this.funFacts = funFacts;
-    }
 // Métodos para formatear y mostrar la información
 
     /**
@@ -135,18 +116,6 @@ public class Perfil {
         return "Fun Facts:\n" + String.join(", ", funFacts) + "\n";
     }
 
-    /**
-     * Devuelve una representación completa y formateada de todo el perfil.
-     *
-     * @return Información completa del perfil.
-     */
-    public String formattedProfile() {
-        return "About Me: " + name + "\n\n" +
-                formattedStory() +
-                formattedHobbies() +
-                formattedFoods() +
-                formattedFunFacts();
-    }
 }
 
 

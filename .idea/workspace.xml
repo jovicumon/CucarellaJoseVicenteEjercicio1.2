@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b805690-c9b0-4556-b68b-4d1c923f8ce9" name="Changes" comment="segundo commit fallo en el push dl primero" />
+    <list default="true" id="8b805690-c9b0-4556-b68b-4d1c923f8ce9" name="Changes" comment="commit setter">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CucarellaJoseVicente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CucarellaJoseVicente.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "jovicumon"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/jovicumon/CucarellaJoseVicenteEjercicio1.2.git",
+    "accountId": "6bf017fa-4f1d-4244-9b8a-1b1eff16a127"
+  }
+}]]></component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -109,12 +124,29 @@
       <option name="project" value="LOCAL" />
       <updated>1733350369045</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="segundo commit fallo en el push dl primero">
+      <option name="closed" value="true" />
+      <created>1733350635858</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1733350635858</updated>
+    </task>
+    <task id="LOCAL-00009" summary="commit setter">
+      <option name="closed" value="true" />
+      <created>1733351239632</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1733351239632</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="primer commit olvidado ir subiendo los commits..." />
     <MESSAGE value="segundo commit fallo en el push dl primero" />
-    <option name="LAST_COMMIT_MESSAGE" value="segundo commit fallo en el push dl primero" />
+    <MESSAGE value="commit setter" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit setter" />
   </component>
 </project>

@@ -70,13 +70,12 @@ public class CucarellaJoseVicente {
      * @return Un dato curioso aleatorio.
      */
     private static String getRandomFunFact(List<String> funFacts) {
-        Random random = new Random();
-        int index = random.nextInt(funFacts.size());
-        return funFacts.get(index);
+        return funFacts.get(new Random().nextInt(funFacts.size()));
     }
-        /* Mostrar el perfil formateado
+        /* Variable control primer menú
+        Mostrar el perfil formateado
         System.out.println(perfil.formattedProfile());
         */
 
-        }
+}
 
