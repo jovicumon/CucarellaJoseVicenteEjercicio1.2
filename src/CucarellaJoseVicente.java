@@ -17,7 +17,6 @@ public class CucarellaJoseVicente {
         Scanner scanner = new Scanner(System.in);
         int opcion;
 
-
         // Bucle del menú
         do {
             // Mostrar el menú
