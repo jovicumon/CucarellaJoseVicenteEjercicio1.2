@@ -3,7 +3,7 @@ import java.util.List;
 import java.util.Random;
 import java.util.Scanner;
 
-public class CucarellaJoseVicente {
+public class CucarellaJoseVicenteEjercicio1 {
     public static void main(String[] args) {
         // Crear un perfil de ejemplo
         Perfil perfil = new Perfil(

@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b805690-c9b0-4556-b68b-4d1c923f8ce9" name="Changes" comment="commit actualizando metodos y comentarios">
+    <list default="true" id="8b805690-c9b0-4556-b68b-4d1c923f8ce9" name="Changes" comment="comiteando más cosas">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,18 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "jovicumon"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;jovicumon&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/jovicumon/CucarellaJoseVicenteEjercicio1.2.git",
-    "accountId": "6bf017fa-4f1d-4244-9b8a-1b1eff16a127"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/jovicumon/CucarellaJoseVicenteEjercicio1.2.git&quot;,
+    &quot;accountId&quot;: &quot;6bf017fa-4f1d-4244-9b8a-1b1eff16a127&quot;
   }
-}]]></component>
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -147,7 +147,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733352097881</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="comiteando más cosas">
+      <option name="closed" value="true" />
+      <created>1733352892844</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1733352892844</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -155,6 +163,7 @@
     <MESSAGE value="segundo commit fallo en el push dl primero" />
     <MESSAGE value="commit setter" />
     <MESSAGE value="commit actualizando metodos y comentarios" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit actualizando metodos y comentarios" />
+    <MESSAGE value="comiteando más cosas" />
+    <option name="LAST_COMMIT_MESSAGE" value="comiteando más cosas" />
   </component>
 </project>
