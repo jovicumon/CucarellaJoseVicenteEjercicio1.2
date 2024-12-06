@@ -3,10 +3,10 @@ import java.util.List;
 import java.util.Random;
 import java.util.Scanner;
 
-public class CucarellaJoseVicenteEjercicio1 {
+public class CucarellaJoseVicenteEjercicio1Main {
     public static void main(String[] args) {
         // Crear un perfil de ejemplo
-        Perfil perfil = new Perfil(
+        CucarellaJoseVicenteEjercicio1Perfil perfil = new CucarellaJoseVicenteEjercicio1Perfil(
                 "Jovi Cucarella",
                 "Soy un desarrollador novato dispuesto a aprender nuevas tecnologías.",
                 Arrays.asList("📖 Leer", "💻 Programar", "🏋️‍♂️ Deporte"),

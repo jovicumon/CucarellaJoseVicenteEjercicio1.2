@@ -5,7 +5,7 @@ import java.util.List;
  * Contiene información personal, hobbies, comidas favoritas y datos curiosos.
  */
 
-public class Perfil {
+public class CucarellaJoseVicenteEjercicio1Perfil {
 
     // Atributos privados
     private String name;
@@ -23,7 +23,7 @@ public class Perfil {
      * @param foods    Lista de comidas favoritas del perfil.
      * @param funFacts Lista de datos curiosos del perfil.
      */
-    public Perfil(String name, String story, List<String> hobbies, List<String> foods, List<String> funFacts) {
+    public CucarellaJoseVicenteEjercicio1Perfil(String name, String story, List<String> hobbies, List<String> foods, List<String> funFacts) {
         this.name = name;
         this.story = story;
         this.hobbies = hobbies;
