@@ -21,7 +21,9 @@ public class CucarellaJoseVicenteEjercicio1Perfil {
      * @param story    Historia personal del perfil.
      * @param hobbies  Lista de hobbies del perfil.
      * @param foods    Lista de comidas favoritas del perfil.
-     * @param funFacts Lista de datos curiosos del perfil.
+     * @param funFacts Lista de datos curiosos del perfil. <br>
+     * Aunque podríamos poner estas variables como finales, no lo vamos a hacer, para así poder modificarlas
+     * en un futuro si fuera necesario.
      */
     public CucarellaJoseVicenteEjercicio1Perfil(String name, String story, List<String> hobbies, List<String> foods, List<String> funFacts) {
         this.name = name;
